@@ -12,7 +12,7 @@
 	</main>
 
 	<footer>
-		<p>&copy; 2023 Isaiah Rice and Elliot Werner</p>
+		<small>&copy; 2023 Isaiah Rice and Elliot Werner</small>
 	</footer>
 </div>
 
