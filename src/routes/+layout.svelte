@@ -12,7 +12,7 @@
 	</main>
 
 	<footer>
-		<p>Go to <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>&copy; 2023 Isaiah Rice and Elliot Werner</p>
 	</footer>
 </div>
 

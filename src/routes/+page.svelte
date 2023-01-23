@@ -8,7 +8,7 @@
 </svelte:head>
 
 <section>
- <h1>testing</h1>
+ <p>testing</p>
 </section>
 
 <style>
