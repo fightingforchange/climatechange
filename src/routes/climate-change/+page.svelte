@@ -18,7 +18,10 @@
 		This is an image
 	</p>
 
-	<img src={imgclimatechange} alt="image" width="500rem" height="auto" />
+	<div>
+		<img src={imgclimatechange} alt="image" width="300" height="auto" />
+	</div>
+	
 
 <style>
 	h2, h6 {

@@ -12,9 +12,9 @@
 		<h2>Home</h2>
 	</header>
 
-	<article>
-		Some text here
-	</article>
+	<p style="padding-top: 20px;">
+		text here
+	</p>
 
 	
 	<details>
@@ -26,6 +26,10 @@
 		</ul>
 	</details>
 </div>
+
+<article> 
+	Some text here
+</article>
 
 <style>
 	h2 {
