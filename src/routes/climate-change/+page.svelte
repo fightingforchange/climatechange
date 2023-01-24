@@ -1,3 +1,7 @@
+<script>
+		import imgclimatechange from '$lib/images/image.svg';
+</script>
+
 <svelte:head>
 	<title>Climate Change</title>
 	<meta name="description" content="Climate Change" />
@@ -5,22 +9,19 @@
 
 
 	<div class="text-column">
-		<article>
+		<header style="padding: 10px 0px;">
 			<h2>Climate Change</h2>
-		</article>
+		</header>
 	</div>
-
-	<details>
-		<summary>Why is climate change bad?</summary>
-		<article>
-			<h4>Because</h4>
-		</article>
-	</details>
 	
+	<p>
+		This is an image
+	</p>
 
+	<img src={imgclimatechange} alt="image" width="500rem" height="auto" />
 
 <style>
-	h2, h4 {
+	h2, h6 {
 		padding: 0;
 		margin: 0;
 	}

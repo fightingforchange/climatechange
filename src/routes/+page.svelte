@@ -8,13 +8,19 @@
 </svelte:head>
 
 <div class="text-column">
-	<article>
+	<header style="padding: 10px 0px:">
 		<h2>Home</h2>
+	</header>
+
+	<article>
+		Some text here
 	</article>
 
-	<p>
-		 Some text here
-	</p>
+	
+	<details>
+		<summary>Why is climate change bad?</summary>
+			<h6>Because</h6>
+	</details>
 </div>
 
 <style>
