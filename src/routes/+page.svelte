@@ -19,7 +19,11 @@
 	
 	<details>
 		<summary>Why is climate change bad?</summary>
-			<h6>Because</h6>
+		<ul>
+			<li>reason 1</li>
+			<li>reason 2</li>
+			<li>reason 3</li>
+		</ul>
 	</details>
 </div>
 
