@@ -210,8 +210,8 @@ kbd {
   --muted-color: hsl(205deg, 10%, 50%);
   --muted-border-color: hsl(205deg, 20%, 94%);
   --primary: rgb(150, 150, 150);
-  --primary-hover: hsl(195deg, 90%, 0%);
-  --primary-focus: rgba(40, 40, 40, 0);
+  --primary-hover: rgb(120, 120, 120);
+  --primary-focus: rgba(120, 120, 120, 0);
   --primary-inverse: #fff;
   --secondary: hsl(205deg, 15%, 41%);
   --secondary-hover: hsl(205deg, 20%, 32%);
@@ -316,8 +316,8 @@ kbd {
     --muted-color: hsl(205deg, 10%, 50%);
     --muted-border-color: #1f2d38;
     --primary: rgb(150, 150, 150);
-    --primary-hover: hsl(195deg, 90%, 0%);
-    --primary-focus: rgba(40, 40, 40, 0);
+    --primary-hover: rgb(120, 120, 120);
+    --primary-focus: rgba(120, 120, 120, 0);
     --primary-inverse: #fff;
     --secondary: hsl(205deg, 15%, 41%);
     --secondary-hover: hsl(205deg, 10%, 50%);
@@ -422,8 +422,8 @@ kbd {
   --muted-color: hsl(205deg, 10%, 50%);
   --muted-border-color: #1f2d38;
   --primary: rgb(150, 150, 150);
-  --primary-hover: hsl(195deg, 90%, 0%);
-  --primary-focus: rgba(40, 40, 40, 0);
+  --primary-hover: rgb(120, 120, 120);
+  --primary-focus: rgba(120, 120, 120, 0);
   --primary-inverse: #fff;
   --secondary: hsl(205deg, 15%, 41%);
   --secondary-hover: hsl(205deg, 10%, 50%);
