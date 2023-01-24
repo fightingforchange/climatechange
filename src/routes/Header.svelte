@@ -5,7 +5,7 @@
 
 <header class=header>
 	<nav>
-		<ul class="corner">
+		<ul>
 			<li>
 				<a href="/">
 					<img src={logo} alt="Logo" width="50px" height="auto" />
@@ -22,6 +22,3 @@
 		</ul>
 	</nav>
 </header>
-
-<style>
-</style>
