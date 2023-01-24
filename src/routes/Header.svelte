@@ -4,7 +4,7 @@
 	import github from '$lib/images/github.svg';
 </script>
 
-<header>
+<header class=header>
 	<nav>
 		<ul class="corner">
 			<li>

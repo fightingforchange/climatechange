@@ -4,12 +4,23 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Home" />
 </svelte:head>
 
-<section>
- <p>testing</p>
-</section>
+<div class="text-column">
+	<article>
+		<h2>Home</h2>
+	</article>
+
+	<p>
+		 Some text here
+	</p>
+
+</div>
 
 <style>
+	h2 {
+		padding: 0;
+		margin: 0;
+	}
 </style>

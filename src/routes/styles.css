@@ -24,7 +24,7 @@
   --nav-link-spacing-vertical: 0.5rem;
   --nav-link-spacing-horizontal: 0.5rem;
   --form-label-font-weight: var(--font-weight);
-  --transition: 0.2s ease-in-out;
+  --transition: 0.1s ease-in-out;
   --modal-overlay-backdrop-filter: blur(0.25rem);
 }
 @media (min-width: 576px) {
@@ -209,9 +209,9 @@ kbd {
   --h6-color: #4d606d;
   --muted-color: hsl(205deg, 10%, 50%);
   --muted-border-color: hsl(205deg, 20%, 94%);
-  --primary: hsl(195deg, 85%, 41%);
-  --primary-hover: hsl(195deg, 90%, 32%);
-  --primary-focus: rgba(16, 149, 193, 0.125);
+  --primary: rgb(150, 150, 150);
+  --primary-hover: hsl(195deg, 90%, 0%);
+  --primary-focus: rgba(40, 40, 40, 0);
   --primary-inverse: #fff;
   --secondary: hsl(205deg, 15%, 41%);
   --secondary-hover: hsl(205deg, 20%, 32%);
@@ -315,9 +315,9 @@ kbd {
     --h6-color: #afbbc4;
     --muted-color: hsl(205deg, 10%, 50%);
     --muted-border-color: #1f2d38;
-    --primary: hsl(195deg, 85%, 41%);
-    --primary-hover: hsl(195deg, 80%, 50%);
-    --primary-focus: rgba(16, 149, 193, 0.25);
+    --primary: rgb(150, 150, 150);
+    --primary-hover: hsl(195deg, 90%, 0%);
+    --primary-focus: rgba(40, 40, 40, 0);
     --primary-inverse: #fff;
     --secondary: hsl(205deg, 15%, 41%);
     --secondary-hover: hsl(205deg, 10%, 50%);
@@ -421,9 +421,9 @@ kbd {
   --h6-color: #afbbc4;
   --muted-color: hsl(205deg, 10%, 50%);
   --muted-border-color: #1f2d38;
-  --primary: hsl(195deg, 85%, 41%);
-  --primary-hover: hsl(195deg, 80%, 50%);
-  --primary-focus: rgba(16, 149, 193, 0.25);
+  --primary: rgb(150, 150, 150);
+  --primary-hover: hsl(195deg, 90%, 0%);
+  --primary-focus: rgba(40, 40, 40, 0);
   --primary-inverse: #fff;
   --secondary: hsl(205deg, 15%, 41%);
   --secondary-hover: hsl(205deg, 10%, 50%);
