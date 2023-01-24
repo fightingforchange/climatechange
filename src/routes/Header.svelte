@@ -1,7 +1,6 @@
 <script>
 	import { page } from '$app/stores';
 	import logo from '$lib/images/favicon.png';
-	import github from '$lib/images/github.svg';
 </script>
 
 <header class=header>
