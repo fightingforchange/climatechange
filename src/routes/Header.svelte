@@ -16,8 +16,11 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/climate-change">Climate Change</a>
+			<li aria-current={$page.url.pathname === '/extreme-weather' ? 'page' : undefined}>
+				<a href="/extreme-weather">Extreme Weather</a>
+			</li>
+			<li aria-current={$page.url.pathname === '/dislocation' ? 'page' : undefined}>
+				<a href="/dislocation">Dislocation</a>
 			</li>
 		</ul>
 	</nav>

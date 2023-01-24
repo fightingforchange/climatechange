@@ -3,14 +3,14 @@
 </script>
 
 <svelte:head>
-	<title>Climate Change</title>
+	<title>Extreme Weather</title>
 	<meta name="description" content="Climate Change" />
 </svelte:head>
 
 
 	<div class="text-column">
 		<header style="padding: 10px 0px;">
-			<h2>Climate Change</h2>
+			<h2>Extreme Weather</h2>
 		</header>
 	</div>
 	
