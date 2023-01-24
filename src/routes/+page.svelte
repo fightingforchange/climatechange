@@ -16,7 +16,15 @@
 		 Some text here
 	</p>
 
-</div>
+	<details role="list">
+		<summary aria-haspopup="listbox">Dropdown</summary>
+		<ul role="listbox">
+			<li><a href="/">Stay on page</a></li>
+			<li><a href="/climate-change">Go to another page</a></li>
+			<li><a href="/">Something else here</a></li>
+		</ul>
+	</details>
+	</div>
 
 <style>
 	h2 {

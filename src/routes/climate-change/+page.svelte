@@ -7,13 +7,13 @@
 	<article>
 		<h2>Climate Change</h2>
 	</article>
-	
+
 	<p>
 		 Some text here
 	</p>
 </div>
 
-<style>
+<style>	
 	h2 {
 		padding: 0;
 		margin: 0;

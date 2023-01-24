@@ -4,12 +4,16 @@
 	import './styles.css';
 </script>
 
-<div class="app">
-	<Header />
+<div class="app" style="min-height:100vh; display:flex; flex-direction:column; 
+justify-content:space-between;">
+	<div class='headerandbody'>
+		<Header />
 
-	<main>
-		<slot />
-	</main>
+		<main>
+			<slot />
+		</main>
+
+	</div>
 
 	<footer>
 		<small>&copy; 2023 Isaiah Rice and Elliot Werner</small>
