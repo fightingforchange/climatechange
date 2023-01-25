@@ -9,7 +9,7 @@
 
 
 	<div class="text-column">
-		<header style="padding: 10px 0px;">
+		<header style="padding: 10px 0px; display: flex; justify-content:center; ">
 			<h2>Dislocation</h2>
 		</header>
 	</div>

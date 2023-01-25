@@ -9,7 +9,7 @@
 
 
 	<div class="text-column">
-		<header style="padding: 10px 0px;">
+		<header style="padding: 10px 0px; display: flex; justify-content:center; ">
 			<h2>Extreme Weather</h2>
 		</header>
 	</div>
@@ -19,12 +19,12 @@
 	</p>
 
 	<div>
-		<img src={imgclimatechange} alt="image" width="300" height="auto" />
+		<img src={imgclimatechange} alt="" width="300" height="auto" />
 	</div>
 	
 
 <style>
-	h2, h6 {
+	h2 {
 		padding: 0;
 		margin: 0;
 	}

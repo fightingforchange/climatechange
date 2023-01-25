@@ -8,7 +8,7 @@
 </svelte:head>
 
 <div class="text-column">
-	<header style="padding: 10px 0px:">
+	<header style="padding: 10px 0px; display: flex; justify-content:center; ">
 		<h2>Home</h2>
 	</header>
 
@@ -31,9 +31,12 @@
 	Some text here
 </article>
 
+<a href="/taking-action" role="button" class="contrast">What can you do</a>
+
 <style>
 	h2 {
 		padding: 0;
 		margin: 0;
 	}
+	
 </style>

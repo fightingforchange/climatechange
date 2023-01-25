@@ -22,6 +22,9 @@
 			<li aria-current={$page.url.pathname === '/dislocation' ? 'page' : undefined}>
 				<a href="/dislocation">Dislocation</a>
 			</li>
+			<li aria-current={$page.url.pathname === '/taking-action' ? 'page' : undefined}>
+				<a href="/taking-action" role="button" class="contrast">What can you do</a>
+			</li>
 		</ul>
 	</nav>
 </header>
