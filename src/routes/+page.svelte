@@ -12,12 +12,10 @@
 		<h2>Home</h2>
 	</header>
 
-	<p style="padding-top: 20px;">
-		text here
-	</p>
+
 
 	
-	<details>
+	<details style="padding-top: 20px;">
 		<summary>Why is climate change bad?</summary>
 		<ul>
 			<li>reason 1</li>
@@ -31,7 +29,10 @@
 	Some text here
 </article>
 
-<a href="/taking-action" role="button" class="contrast">What can you do</a>
+<div style="display: flex; flex-direction:row; justify-content: center;">
+	<a href="/taking-action" role="button" class="contrast">What can you do</a>
+</div>
+
 
 <style>
 	h2 {
