@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '$lib/images/logo.svg';
+	import logo from '$lib/images/favicon.webp';
 </script>
 
 <header class=header>
