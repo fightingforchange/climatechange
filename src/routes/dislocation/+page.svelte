@@ -1,5 +1,5 @@
 <script>
-		import imgclimatechange from '$lib/images/image.svg';
+
 </script>
 
 <svelte:head>
@@ -15,12 +15,9 @@
 	</div>
 	
 	<p>
-		This is an image
+		This is text
 	</p>
 
-	<div>
-		<img src={imgclimatechange} alt="image" width="300" height="auto" />
-	</div>
 	
 
 <style>

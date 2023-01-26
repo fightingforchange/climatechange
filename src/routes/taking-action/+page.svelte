@@ -1,5 +1,5 @@
 <script>
-		import imgclimatechange from '$lib/images/image.svg';
+
 </script>
 
 <svelte:head>

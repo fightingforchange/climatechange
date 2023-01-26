@@ -12,9 +12,10 @@
 		<h2>Raising Awareness About Climate Change</h2>
 	</header>
 
+<article> 
+	Some text here
+</article>
 
-
-	
 	<details style="padding-top: 20px;">
 		<summary>Why is climate change bad?</summary>
 		<ul>
@@ -25,12 +26,9 @@
 	</details>
 </div>
 
-<article> 
-	Some text here
-</article>
 
 <div style="display: flex; flex-direction:row; justify-content: center;">
-	<a href="/taking-action" role="button" class="contrast">What you can do</a>
+	<a href="/taking-action" role="button" class="contrast" style="width: 100%;">What you can do</a>
 </div>
 
 
@@ -39,5 +37,15 @@
 		padding: 0;
 		margin: 0;
 	}
-	
+	.contrast {
+		background-color:rgb(215,215,215);
+		border-color:rgb(215,215,215);
+		transition: background-color 0.15s;
+		transition: color 0.15s;
+	}
+	.contrast:hover {
+		background-color:rgb(175,175,175);
+		border-color:rgb(175,175,175);
+	}
+
 </style>
