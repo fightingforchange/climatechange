@@ -9,7 +9,7 @@
 
 <div class="text-column">
 	<header style="padding: 10px 0px; display: flex; justify-content:center; ">
-		<h2>Home</h2>
+		<h2>Raising Awareness About Climate Change</h2>
 	</header>
 
 
@@ -30,7 +30,7 @@
 </article>
 
 <div style="display: flex; flex-direction:row; justify-content: center;">
-	<a href="/taking-action" role="button" class="contrast">What can you do</a>
+	<a href="/taking-action" role="button" class="contrast">What you can do</a>
 </div>
 
 
