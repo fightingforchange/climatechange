@@ -13,15 +13,15 @@
 	</header>
 
 <article> 
-	Some text here
+	Climate change is a serious problem. As greenhouse gas emissions blanket the Earth, they trap the sun’s heat. This leads to global warming and climate change. The world is now warming faster than at any point in recorded history.
 </article>
 
 	<details style="padding-top: 20px;">
-		<summary>Why is climate change bad?</summary>
+		<summary role="button">Why is climate change bad?</summary>
 		<ul>
-			<li>reason 1</li>
-			<li>reason 2</li>
-			<li>reason 3</li>
+			<li>Extreme weather like droughts, huricanes, and floods are more common.</li>
+			<li>Green house gasses from fossil fuels break down the ozone layer</li>
+			<li>Ice melts causing sea level rise</li>
 		</ul>
 	</details>
 </div>

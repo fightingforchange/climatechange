@@ -16,12 +16,14 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
+			<!--
 			<li aria-current={$page.url.pathname === '/extreme-weather' ? 'page' : undefined}>
 				<a href="/extreme-weather">Extreme Weather</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/dislocation' ? 'page' : undefined}>
 				<a href="/dislocation">Dislocation</a>
 			</li>
+		-->
 			<li aria-current={$page.url.pathname === '/taking-action' ? 'page' : undefined}>
 				<a href="/taking-action" role="button" class="contrast" >What you can do</a>
 			</li>
