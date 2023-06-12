@@ -13,7 +13,7 @@
 	</header>
 
 <article> 
-	Climate change is a serious problem. As greenhouse gas emissions blanket the Earth, they trap the sun’s heat. This leads to global warming and climate change. The world is now warming faster than at any point in recorded history.
+	Climate change is a big problem. As greenhouse gas emissions blanket the Earth, they trap the sun’s heat. This leads to global warming and climate change. The world is now warming faster than at any point in recorded history.
 </article>
 
 	<details style="padding-top: 20px;">

@@ -22,7 +22,7 @@
 <ul>
 	<li>Walk, bike, or take public transport</li>
 	<li>Save energy at home</li>
-	<li>Raise awareness about the benefits of renewable ENERGY</li>
+	<li>Raise awareness about the benefits of renewable energy</li>
 </ul>
 
 <style>
